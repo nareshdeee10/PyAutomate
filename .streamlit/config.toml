@@ -1,4 +1,4 @@
 [server]
 headless = true
 enableCORS = false
-port = 8080
+port = 10000  # Render uses $PORT, but this helps locally
